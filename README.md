@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Tim, an applied computer sience student currently studying on Avans University of Applied Science in the Netherlands.
+
 <!--
 **timherreijgers/timherreijgers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
