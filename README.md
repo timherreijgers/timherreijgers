@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Language and Tools
+
+Voorbeeld:
+https://github.com/codeSTACKr/codeSTACKr
 -->
